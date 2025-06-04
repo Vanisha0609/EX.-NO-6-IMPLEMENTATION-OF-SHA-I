@@ -38,7 +38,8 @@ result = hashlib.sha1(str.encode())
 print("\nThe hexadecimal equivalent of SHA1 is : ", result.hexdigest())
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8efcffc6-3829-462f-a293-36cd2c11ffb4)
+
 
 
 ## RESULT:
